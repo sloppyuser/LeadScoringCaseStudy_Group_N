@@ -15,17 +15,17 @@ X Education has appointed you to help them select the most promising leads, i.e.
 
 ### We performed following steps :-
 - Reading and Understanding Data
-- Data Cleaning
+- Data Cleaning/Preparation
 - Data Analysis
-- Data Preparation
 - Data Training
 - Model Analysis
+- Model Evaluation
 
 ### File details:-
 - LeadScoringAssigment-Group_N.ipynb : The python file showing coding and data analysis
-- AssignmentSubjectiveAnswers.pdf : Some subjective questions answered
+- SubjectiveAnswers.pdf : Some subjective questions answered
 - Presentation.pdf : Final Presentation
 - Leads.csv : Data worked on
 - Leads Data Dictionary.xlsx : Data Dictionary
-- Summary.pdf : Summary on what's done in the entire py file 
+- Summary.pdf : Summary on what's done in the entire jupyter file
 
